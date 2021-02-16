@@ -12,5 +12,8 @@
 		"component",
 		"salem-ui",
 		"salem"
-	]
+	],
+	"dependencies": {
+		"sass": "^1.32.7"
+	}
 }
