@@ -1,6 +1,6 @@
 {
 	"name": "salem-ui",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"description": "Succinct react.js predefined components to make coding quick yet refined.",
 	"license": "MIT",
 	"repository": "fredericoo/salem-ui",
